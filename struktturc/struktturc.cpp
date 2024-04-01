@@ -6,5 +6,8 @@ struct Mahasiswa {
 	string nama;
 	string alamat;
 	int umur;
-};					
+};
+int main() {
+	Mahasiswa mhs;
 
+}
