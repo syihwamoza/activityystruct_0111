@@ -18,5 +18,8 @@
     <ClCompile Include="struktturc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="struktur2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
